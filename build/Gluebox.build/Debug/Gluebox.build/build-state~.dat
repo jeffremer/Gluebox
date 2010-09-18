@@ -1,0 +1,409 @@
+TGluebox
+v7
+r0
+t306354501.568115
+cCheck dependencies
+cProcessInfoPlistFile /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Info.plist Gluebox-Info.plist
+cCopyStringsFile /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch.gch Gluebox_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/main.o /Users/jeff/Projects/Gluebox/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/GlueboxAppDelegate.o /Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/CustomView.o /Users/jeff/Projects/Gluebox/CustomView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/MAAttachedWindow.o /Users/jeff/Projects/Gluebox/MAAttachedWindow.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/YRKSpinningProgressIndicator.o /Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C6F02D300000000000000EE
+t1282343635
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/jeff/Projects/Gluebox/CustomView.h
+c000000004C4A126200000000000001AE
+t1279922786
+s430
+i<Cocoa/Cocoa.h>
+
+N/Users/jeff/Projects/Gluebox/CustomView.m
+c000000004C59D9850000000000000B20
+t1280956805
+s2848
+i"CustomView.h"
+i"JotlrAppDelegate.h"
+
+N/Users/jeff/Projects/Gluebox/English.lproj/InfoPlist.strings
+c000000004C925FC8000000000000002D
+t1284661192
+s45
+
+N/Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib
+c000000004C925FC8000000000002BB6B
+t1284661192
+s179051
+
+N/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.h
+c000000004C925FC80000000000000136
+t1284661192
+s310
+i<Cocoa/Cocoa.h>
+
+N/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m
+c000000004C92614300000000000002F7
+t1284661571
+s759
+i"GlueboxAppDelegate.h"
+i"CustomView.h"
+
+N/Users/jeff/Projects/Gluebox/Gluebox_Prefix.pch
+c000000004C925FC80000000000000091
+t1284661192
+s145
+i<Cocoa/Cocoa.h>
+
+N/Users/jeff/Projects/Gluebox/MAAttachedWindow.h
+c000000004C5AFF8F0000000000001EEE
+t1281032079
+s7918
+i<Cocoa/Cocoa.h>
+
+N/Users/jeff/Projects/Gluebox/MAAttachedWindow.m
+c000000004C5B0680000000000000757B
+t1281033856
+s30075
+i"MAAttachedWindow.h"
+i"CGSPrivate.h"
+
+N/Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.h
+c000000004C59D3890000000000000489
+t1280955273
+s1161
+i<Cocoa/Cocoa.h>
+
+N/Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.m
+c000000004C59D38900000000000023D7
+t1280955273
+s9175
+i"YRKSpinningProgressIndicator.h"
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app
+t2
+s0
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Info.plist
+t1284661696
+s919
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/MacOS/Gluebox
+t2
+s0
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/PkgInfo
+t1284661696
+s8
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1284661696
+s92
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/English.lproj/MainMenu.nib
+t1284661697
+s34381
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/CustomView.o
+t2
+s0
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/Gluebox.LinkFileList
+c000000004C9261C00000000000000222
+t1284661696
+s546
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/GlueboxAppDelegate.o
+t2
+s0
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/MAAttachedWindow.o
+t2
+s0
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/YRKSpinningProgressIndicator.o
+t1284661701
+s49436
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/main.o
+t1284661701
+s4976
+
+N/Users/jeff/Projects/Gluebox/main.m
+c000000004C925FC800000000000000F8
+t1284661192
+s248
+i<Cocoa/Cocoa.h>
+
+N/var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-cnprodlyruewsnfihdsswapbilej/Gluebox_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch.gch
+t1284661700
+s54273808
+
+NGluebox-Info.plist
+c000000004C9261BA000000000000040B
+t1284661690
+s1035
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306354496#306354496#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/CustomView.o /Users/jeff/Projects/Gluebox/CustomView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306354501.109715
+e306354501.344801
+r0
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/CustomView.o
+x/Users/jeff/Projects/Gluebox/CustomView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Projects/Gluebox/CustomView.m:10:29: error: JotlrAppDelegate.h: No such file or directory
+o/Users/jeff/Projects/Gluebox/CustomView.m: In function '-[CustomView toggleAttachedWindow]':
+o/Users/jeff/Projects/Gluebox/CustomView.m:64: warning: no '-toggleAttachedWindowAtPoint:withSender:' method found
+o/Users/jeff/Projects/Gluebox/CustomView.m:64: warning: (Messages without a matching method signature
+o/Users/jeff/Projects/Gluebox/CustomView.m:64: warning: will be assumed to return 'id' and accept
+o/Users/jeff/Projects/Gluebox/CustomView.m:64: warning: '...' as arguments.)
+o/Users/jeff/Projects/Gluebox/CustomView.m: In function '-[CustomView performDragOperation:]':
+o/Users/jeff/Projects/Gluebox/CustomView.m:100: error: request for member 'currentClip' in something not a structure or union
+o/Users/jeff/Projects/Gluebox/CustomView.m:101: error: request for member 'shouldCreateJot' in something not a structure or union
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol LC5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol LC6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol LC7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+lSLF07#2@49"Compile /Users/jeff/Projects/Gluebox/CustomView.m306354501#306354501#0(2565"/Users/jeff/Projects/Gluebox/CustomView.m:10:29: error: JotlrAppDelegate.h: No such file or directory/Users/jeff/Projects/Gluebox/CustomView.m: In function '-[CustomView toggleAttachedWindow]':/Users/jeff/Projects/Gluebox/CustomView.m:64: warning: no '-toggleAttachedWindowAtPoint:withSender:' method found/Users/jeff/Projects/Gluebox/CustomView.m:64: warning: (Messages without a matching method signature/Users/jeff/Projects/Gluebox/CustomView.m:64: warning: will be assumed to return 'id' and accept/Users/jeff/Projects/Gluebox/CustomView.m:64: warning: '...' as arguments.)/Users/jeff/Projects/Gluebox/CustomView.m: In function '-[CustomView performDragOperation:]':/Users/jeff/Projects/Gluebox/CustomView.m:100: error: request for member 'currentClip' in something not a structure or union/Users/jeff/Projects/Gluebox/CustomView.m:101: error: request for member 'shouldCreateJot' in something not a structure or union{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol LC5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol LC6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol LC7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_145(4@45"JotlrAppDelegate.h: No such file or directory306354501#0#102#0(6@41"/Users/jeff/Projects/Gluebox/CustomView.m302649605#10#0#10#0#28"*: No such file or directory0(22@58"No '-toggleAttachedWindowAtPoint:withSender:' method found306354501#195#114#0(6@41"/Users/jeff/Projects/Gluebox/CustomView.m302649605#64#0#64#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306354501#309#101#0(6@41"/Users/jeff/Projects/Gluebox/CustomView.m302649605#64#0#64#0#0"0(4@70"Request for member 'currentClip' in something not a structure or union306354501#677#125#0(6@41"/Users/jeff/Projects/Gluebox/CustomView.m302649605#100#0#100#0#0"0(4@74"Request for member 'shouldCreateJot' in something not a structure or union306354501#802#129#0(6@41"/Users/jeff/Projects/Gluebox/CustomView.m302649605#101#0#101#0#0"0(0#0#41"/Users/jeff/Projects/Gluebox/CustomView.m8622405696#1367"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/CustomView.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/CustomView.o1#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/GlueboxAppDelegate.o /Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306354500.904775
+e306354501.109628
+r0
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/GlueboxAppDelegate.o
+x/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m: In function '-[GlueboxAppDelegate awakeFromNib]':
+o/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m:24: error: 'statusItem' undeclared (first use in this function)
+o/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m:24: error: (Each undeclared identifier is reported only once
+o/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m:24: error: for each function it appears in.)
+o/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m:25: warning: incompatible Objective-C types 'struct GlueboxAppDelegate *', expected 'struct JotlrAppDelegate *' when passing argument 2 of 'initWithFrame:controller:' from distinct Objective-C type
+o/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m:26: error: request for member 'progressBar' in something not a structure or union
+lSLF07#2@57"Compile /Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m306354500#306354501#0(801"/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m: In function '-[GlueboxAppDelegate awakeFromNib]':/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m:24: error: 'statusItem' undeclared (first use in this function)/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m:24: error: (Each undeclared identifier is reported only once/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m:24: error: for each function it appears in.)/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m:25: warning: incompatible Objective-C types 'struct GlueboxAppDelegate *', expected 'struct JotlrAppDelegate *' when passing argument 2 of 'initWithFrame:controller:' from distinct Objective-C type/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m:26: error: request for member 'progressBar' in something not a structure or union3(4@52"'statusItem' undeclared (first use in this function)306354501#101#114#0(6@49"/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m306354371#24#0#24#0#43"'*' undeclared (first use in this function)0(22@184"Incompatible Objective-C types 'struct GlueboxAppDelegate *', expected 'struct JotlrAppDelegate *' when passing argument 2 of 'initWithFrame:controller:' from distinct Objective-C type306354501#421#248#0(6@49"/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m306354371#25#0#25#0#0"0(4@70"Request for member 'progressBar' in something not a structure or union306354501#669#132#0(6@49"/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m306354371#26#0#26#0#0"0(0#0#49"/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m8602770944#1383"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/GlueboxAppDelegate.o1#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/MAAttachedWindow.o /Users/jeff/Projects/Gluebox/MAAttachedWindow.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306354501.147472
+e306354501.484623
+r0
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/MAAttachedWindow.o
+x/Users/jeff/Projects/Gluebox/MAAttachedWindow.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:9:23: error: CGSPrivate.h: No such file or directory
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m: In function '-[MAAttachedWindow flip]':
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:944: error: 'CGSTransitionSpec' undeclared (first use in this function)
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:944: error: (Each undeclared identifier is reported only once
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:944: error: for each function it appears in.)
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:944: error: expected ';' before 'spec'
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:946: error: 'spec' undeclared (first use in this function)
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:947: error: 'CGSFlip' undeclared (first use in this function)
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:948: error: 'CGSLeft' undeclared (first use in this function)
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:952: error: 'CGSConnection' undeclared (first use in this function)
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:952: error: expected ';' before 'cgs'
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:955: warning: implicit declaration of function 'CGSNewTransition'
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:955: error: 'cgs' undeclared (first use in this function)
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:962: warning: implicit declaration of function 'CGSInvokeTransition'
+o/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:969: warning: implicit declaration of function 'CGSReleaseTransition'
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol LC0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol LC1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25
+o{standard input}:unknown:Undefined local symbol LC8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27
+o{standard input}:unknown:Undefined local symbol LC9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_32
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_33
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_34
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_35
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_36
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_37
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_38
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_39
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_40
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_41
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_42
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_43
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_44
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_45
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_46
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_47
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_48
+o{standard input}:unknown:Undefined local symbol LC3
+o{standard input}:unknown:Undefined local symbol LC10
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_49
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_50
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_51
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_52
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_53
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_54
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_55
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_56
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_57
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_58
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_59
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_60
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_61
+lSLF07#2@55"Compile /Users/jeff/Projects/Gluebox/MAAttachedWindow.m306354501#306354501#0(7282"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:9:23: error: CGSPrivate.h: No such file or directory/Users/jeff/Projects/Gluebox/MAAttachedWindow.m: In function '-[MAAttachedWindow flip]':/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:944: error: 'CGSTransitionSpec' undeclared (first use in this function)/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:944: error: (Each undeclared identifier is reported only once/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:944: error: for each function it appears in.)/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:944: error: expected ';' before 'spec'/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:946: error: 'spec' undeclared (first use in this function)/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:947: error: 'CGSFlip' undeclared (first use in this function)/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:948: error: 'CGSLeft' undeclared (first use in this function)/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:952: error: 'CGSConnection' undeclared (first use in this function)/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:952: error: expected ';' before 'cgs'/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:955: warning: implicit declaration of function 'CGSNewTransition'/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:955: error: 'cgs' undeclared (first use in this function)/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:962: warning: implicit declaration of function 'CGSInvokeTransition'/Users/jeff/Projects/Gluebox/MAAttachedWindow.m:969: warning: implicit declaration of function 'CGSReleaseTransition'{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol LC0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol LC1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25{standard input}:unknown:Undefined local symbol LC8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27{standard input}:unknown:Undefined local symbol LC9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_32{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_33{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_34{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_35{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_36{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_37{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_38{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_39{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_40{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_41{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_42{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_43{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_44{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_45{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_46{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_47{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_48{standard input}:unknown:Undefined local symbol LC3{standard input}:unknown:Undefined local symbol LC10{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_49{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_50{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_51{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_52{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_53{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_54{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_55{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_56{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_57{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_58{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_59{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_60{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6112(4@39"CGSPrivate.h: No such file or directory306354501#0#101#0(6@47"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m302726656#9#0#9#0#28"*: No such file or directory0(4@59"'CGSTransitionSpec' undeclared (first use in this function)306354501#190#120#0(6@47"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m302726656#944#0#944#0#43"'*' undeclared (first use in this function)0(4@26"Expected ';' before 'spec'306354501#514#87#0(6@47"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m302726656#944#0#944#0#19"expected * before *0(4@46"'spec' undeclared (first use in this function)306354501#601#107#0(6@47"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m302726656#946#0#946#0#43"'*' undeclared (first use in this function)0(4@49"'CGSFlip' undeclared (first use in this function)306354501#708#110#0(6@47"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m302726656#947#0#947#0#43"'*' undeclared (first use in this function)0(4@49"'CGSLeft' undeclared (first use in this function)306354501#818#110#0(6@47"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m302726656#948#0#948#0#43"'*' undeclared (first use in this function)0(4@55"'CGSConnection' undeclared (first use in this function)306354501#928#116#0(6@47"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m302726656#952#0#952#0#43"'*' undeclared (first use in this function)0(4@25"Expected ';' before 'cgs'306354501#1044#86#0(6@47"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m302726656#952#0#952#0#19"expected * before *0(22@51"Implicit declaration of function 'CGSNewTransition'306354501#1130#114#0(6@47"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m302726656#955#0#955#0#36"implicit declaration of function '*'0(4@45"'cgs' undeclared (first use in this function)306354501#1244#106#0(6@47"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m302726656#955#0#955#0#43"'*' undeclared (first use in this function)0(22@54"Implicit declaration of function 'CGSInvokeTransition'306354501#1350#117#0(6@47"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m302726656#962#0#962#0#36"implicit declaration of function '*'0(22@55"Implicit declaration of function 'CGSReleaseTransition'306354501#1467#118#0(6@47"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m302726656#969#0#969#0#36"implicit declaration of function '*'0(0#0#47"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m8605103104#1379"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/MAAttachedWindow.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/MAAttachedWindow.o1#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/YRKSpinningProgressIndicator.o /Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306354501.344892
+e306354501.568018
+r1
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/YRKSpinningProgressIndicator.o
+x/Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.m306354501#306354501#0(0"0(0#0#59"/Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.m3401403401131030528#1403"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/YRKSpinningProgressIndicator.o0#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/main.o /Users/jeff/Projects/Gluebox/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306354500.903821
+e306354501.147377
+r1
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/main.o
+x/Users/jeff/Projects/Gluebox/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/jeff/Projects/Gluebox/main.m306354500#306354501#0(0"0(0#0#35"/Users/jeff/Projects/Gluebox/main.m8618502144#1355"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/main.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib
+s306354496.455615
+e306354497.077123
+r1
+xCompileXIB
+x/Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib306354496#306354497#0(0"0(0#0#55"/Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib8619161952#334"    cd /Users/jeff/Projects/Gluebox    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/English.lproj/MainMenu.nib /Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s306354496.453498
+e306354496.971713
+r1
+xCopyStringsFile
+x/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings306354496#306354496#0(0"0(0#0#60"/Users/jeff/Projects/Gluebox/English.lproj/InfoPlist.strings8619431424#345"    cd /Users/jeff/Projects/Gluebox    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/English.lproj0#
+
+CLd /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/MacOS/Gluebox normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Info.plist Gluebox-Info.plist
+s306354496.429337
+e306354496.453412
+r1
+xProcessInfoPlistFile
+x/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Info.plist
+xGluebox-Info.plist
+lSLF07#2@26"Process Gluebox-Info.plist306354496#306354496#0(0"0(0#0#47"/Users/jeff/Projects/Gluebox/Gluebox-Info.plist31244010180771952#280"    cd /Users/jeff/Projects/Gluebox    builtin-infoPlistUtility Gluebox-Info.plist -genpkginfo /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-cnprodlyruewsnfihdsswapbilej/Gluebox_Prefix.pch.gch Gluebox_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch.gch Gluebox_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306354497.077325
+e306354500.903623
+r1
+xProcessPCH
+x/var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch.gch
+xGluebox_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Gluebox_Prefix.pch306354497#306354500#0(0"0(0#0#47"/Users/jeff/Projects/Gluebox/Gluebox_Prefix.pch8622395744#1271"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -c /Users/jeff/Projects/Gluebox/Gluebox_Prefix.pch -o /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch.gch0#
+
+CTouch /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app
+r0
+

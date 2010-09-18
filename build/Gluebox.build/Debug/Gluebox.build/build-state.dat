@@ -1,0 +1,732 @@
+TGluebox
+v7
+r0
+t306461090.280493
+cCheck dependencies
+cProcessInfoPlistFile /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Info.plist Gluebox-Info.plist
+cCopyStringsFile /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib
+cCpResource build/Debug/Gluebox.app/Contents/Resources/jotlr-alt.png jotlr-alt.png
+cCpResource build/Debug/Gluebox.app/Contents/Resources/jotlr.png jotlr.png
+cCpResource build/Debug/Gluebox.app/Contents/Resources/raw.png raw.png
+cCpResource build/Debug/Gluebox.app/Contents/Resources/email.png email.png
+cCpResource build/Debug/Gluebox.app/Contents/Resources/settings.png settings.png
+cCpResource build/Debug/Gluebox.app/Contents/Resources/share.png share.png
+cCpResource build/Debug/Gluebox.app/Contents/Resources/edit.png edit.png
+cCpResource build/Debug/Gluebox.app/Contents/Resources/new.png new.png
+cProcessPCH /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch.gch Gluebox_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/main.o /Users/jeff/Projects/Gluebox/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/GlueboxAppDelegate.o /Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/CustomView.o /Users/jeff/Projects/Gluebox/CustomView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/MAAttachedWindow.o /Users/jeff/Projects/Gluebox/MAAttachedWindow.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/YRKSpinningProgressIndicator.o /Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/NSObject+SBJSON.o /Users/jeff/Projects/Gluebox/JSON/NSObject+SBJSON.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/NSString+SBJSON.o /Users/jeff/Projects/Gluebox/JSON/NSString+SBJSON.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonBase.o /Users/jeff/Projects/Gluebox/JSON/SBJsonBase.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonParser.o /Users/jeff/Projects/Gluebox/JSON/SBJsonParser.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonWriter.o /Users/jeff/Projects/Gluebox/JSON/SBJsonWriter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/Note.o /Users/jeff/Projects/Gluebox/Note.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/MacOS/Gluebox normal x86_64
+cTouch /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C6F02D300000000000000EE
+t1282343635
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004B4834EA00000000000005FF
+t1263023338
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/jeff/Projects/Gluebox/../Jotlr/settings
+c000000004C5B05540000000000000D11
+t1281033556
+s3345
+
+N/Users/jeff/Projects/Gluebox/../Jotlr/settings-alt.png
+c000000004C5B05540000000000000D11
+t1281033556
+s3345
+
+N/Users/jeff/Projects/Gluebox/CGSPrivate.h
+c0000000046F8526F000000000000098F
+t1190679151
+s2447
+i<Carbon/Carbon.h>
+
+N/Users/jeff/Projects/Gluebox/CustomView.h
+c000000004C92624900000000000001B4
+t1284661833
+s436
+i<Cocoa/Cocoa.h>
+
+N/Users/jeff/Projects/Gluebox/CustomView.m
+c000000004C92627E0000000000000B4A
+t1284661886
+s2890
+i"CustomView.h"
+i"GlueboxAppDelegate.h"
+
+N/Users/jeff/Projects/Gluebox/English.lproj/InfoPlist.strings
+c000000004C925FC8000000000000002D
+t1284661192
+s45
+
+N/Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib
+c000000004C9401FD00000000000331DE
+t1284768253
+s209374
+
+N/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.h
+c000000004C93FDBC000000000000041C
+t1284767164
+s1052
+i<Cocoa/Cocoa.h>
+
+N/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m
+c000000004C940307000000000000169A
+t1284768519
+s5786
+i"GlueboxAppDelegate.h"
+i"CustomView.h"
+i"MAAttachedWindow.h"
+i"YRKSpinningProgressIndicator.h"
+i"JSON.h"
+i"Note.h"
+
+N/Users/jeff/Projects/Gluebox/Gluebox_Prefix.pch
+c000000004C925FC80000000000000091
+t1284661192
+s145
+i<Cocoa/Cocoa.h>
+
+N/Users/jeff/Projects/Gluebox/JSON/JSON.h
+c000000004C92A7E10000000000000992
+t1284679649
+s2450
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/jeff/Projects/Gluebox/JSON/NSObject+SBJSON.h
+c000000004C92A611000000000000085F
+t1284679185
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/jeff/Projects/Gluebox/JSON/NSObject+SBJSON.m
+c000000004C92A611000000000000077D
+t1284679185
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/jeff/Projects/Gluebox/JSON/NSString+SBJSON.h
+c000000004C92A61100000000000007F0
+t1284679185
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/jeff/Projects/Gluebox/JSON/NSString+SBJSON.m
+c000000004C92A611000000000000075D
+t1284679185
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/jeff/Projects/Gluebox/JSON/SBJsonBase.h
+c000000004C92A6110000000000000B82
+t1284679185
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/jeff/Projects/Gluebox/JSON/SBJsonBase.m
+c000000004C92A6110000000000000AC1
+t1284679185
+s2753
+i"SBJsonBase.h"
+
+N/Users/jeff/Projects/Gluebox/JSON/SBJsonParser.h
+c000000004C92A6110000000000000C8F
+t1284679185
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/jeff/Projects/Gluebox/JSON/SBJsonParser.m
+c000000004C92A6110000000000003B7A
+t1284679185
+s15226
+i"SBJsonParser.h"
+
+N/Users/jeff/Projects/Gluebox/JSON/SBJsonWriter.h
+c000000004C92A61100000000000011D9
+t1284679185
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/jeff/Projects/Gluebox/JSON/SBJsonWriter.m
+c000000004C92A6110000000000002072
+t1284679185
+s8306
+i"SBJsonWriter.h"
+
+N/Users/jeff/Projects/Gluebox/MAAttachedWindow.h
+c000000004C5AFF8F0000000000001EEE
+t1281032079
+s7918
+i<Cocoa/Cocoa.h>
+
+N/Users/jeff/Projects/Gluebox/MAAttachedWindow.m
+c000000004C5B0680000000000000757B
+t1281033856
+s30075
+i"MAAttachedWindow.h"
+i"CGSPrivate.h"
+
+N/Users/jeff/Projects/Gluebox/Note.h
+c000000004C92ACC70000000000000124
+t1284680903
+s292
+i<Cocoa/Cocoa.h>
+
+N/Users/jeff/Projects/Gluebox/Note.m
+c000000004C92ACCA00000000000000D3
+t1284680906
+s211
+i"Note.h"
+
+N/Users/jeff/Projects/Gluebox/Xion-dark.png
+c000000004C926EA20000000000001EE1
+t1284664994
+s7905
+
+N/Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.h
+c000000004C59D3890000000000000489
+t1280955273
+s1161
+i<Cocoa/Cocoa.h>
+
+N/Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.m
+c000000004C59D38900000000000023D7
+t1280955273
+s9175
+i"YRKSpinningProgressIndicator.h"
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app
+t1284768290
+s102
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Info.plist
+t1284661696
+s919
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/MacOS/Gluebox
+t1284768290
+s128672
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/PkgInfo
+t1284661696
+s8
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1284661696
+s92
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/English.lproj/MainMenu.nib
+t1284768289
+s39790
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/Xion-dark.png
+t2
+s0
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/edit.png
+t1284666839
+s8250
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/email-alt.png
+t2
+s0
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/email.png
+t1284664734
+s8823
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/jotlr-alt.png
+t1284661972
+s3352
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/jotlr.png
+t1284661972
+s3395
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/new.png
+t1284680606
+s7905
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/raw-alt.png
+t2
+s0
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/raw.png
+t1284664633
+s8183
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/settings
+t2
+s0
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/settings-alt.png
+t2
+s0
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/settings.png
+t1284666839
+s3345
+
+N/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/share.png
+t1284666839
+s9402
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/CustomView.o
+t1284767257
+s26856
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/Gluebox.LinkFileList
+c000000004C92AB9E000000000000049A
+t1284680606
+s1178
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/GlueboxAppDelegate.o
+t1284768290
+s64612
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/MAAttachedWindow.o
+t1284661929
+s79952
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/NSObject+SBJSON.o
+t1284679588
+s8096
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/NSString+SBJSON.o
+t1284679588
+s7988
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/Note.o
+t1284681038
+s10324
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonBase.o
+t1284679588
+s15404
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonParser.o
+t1284679589
+s39324
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonWriter.o
+t1284679589
+s31048
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/YRKSpinningProgressIndicator.o
+t1284661701
+s49436
+
+N/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/main.o
+t1284661701
+s4976
+
+N/Users/jeff/Projects/Gluebox/edit.png
+c000000004C926EA2000000000000203A
+t1284664994
+s8250
+
+N/Users/jeff/Projects/Gluebox/email-alt.png
+c000000004A8CDE940000000000002277
+t1250746004
+s8823
+
+N/Users/jeff/Projects/Gluebox/email.png
+c000000004A8CDE940000000000002277
+t1250746004
+s8823
+
+N/Users/jeff/Projects/Gluebox/jotlr-alt.png
+c000000004C59DB250000000000000D18
+t1280957221
+s3352
+
+N/Users/jeff/Projects/Gluebox/jotlr.png
+c000000004C59DC960000000000000D43
+t1280957590
+s3395
+
+N/Users/jeff/Projects/Gluebox/main.m
+c000000004C925FC800000000000000F8
+t1284661192
+s248
+i<Cocoa/Cocoa.h>
+
+N/Users/jeff/Projects/Gluebox/new.png
+c000000004C926EA20000000000001EE1
+t1284664994
+s7905
+
+N/Users/jeff/Projects/Gluebox/raw-alt.png
+c000000004A8CDEEE0000000000001FF7
+t1250746094
+s8183
+
+N/Users/jeff/Projects/Gluebox/raw.png
+c000000004A8CDEEE0000000000001FF7
+t1250746094
+s8183
+
+N/Users/jeff/Projects/Gluebox/settings-alt.png
+c000000004C5B05540000000000000D11
+t1281033556
+s3345
+
+N/Users/jeff/Projects/Gluebox/settings.png
+c000000004C5B05540000000000000D11
+t1281033556
+s3345
+
+N/Users/jeff/Projects/Gluebox/share.png
+c000000004C926EA200000000000024BA
+t1284664994
+s9402
+
+N/var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-cnprodlyruewsnfihdsswapbilej/Gluebox_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch.gch
+t1284661700
+s54273808
+
+NGluebox-Info.plist
+c000000004C9261BA000000000000040B
+t1284661690
+s1035
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306461089#306461089#0(0"0(0#1#0"8886014592#0"0#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/CustomView.o /Users/jeff/Projects/Gluebox/CustomView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306460057.282901
+e306460057.505052
+r1
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/CustomView.o
+x/Users/jeff/Projects/Gluebox/CustomView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/jeff/Projects/Gluebox/CustomView.m306460057#306460057#0(0"0(0#0#41"/Users/jeff/Projects/Gluebox/CustomView.m8879862560#1367"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/CustomView.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/CustomView.o0#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/GlueboxAppDelegate.o /Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306461089.788194
+e306461090.230716
+r1
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/GlueboxAppDelegate.o
+x/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m306461089#306461090#0(0"0(0#0#49"/Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m8886305472#1383"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/GlueboxAppDelegate.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/GlueboxAppDelegate.o0#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/MAAttachedWindow.o /Users/jeff/Projects/Gluebox/MAAttachedWindow.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306354727.451271
+e306354729.736169
+r1
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/MAAttachedWindow.o
+x/Users/jeff/Projects/Gluebox/MAAttachedWindow.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/jeff/Projects/Gluebox/MAAttachedWindow.m306354727#306354729#0(0"0(0#0#47"/Users/jeff/Projects/Gluebox/MAAttachedWindow.m8613397824#1379"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/MAAttachedWindow.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/MAAttachedWindow.o0#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/NSObject+SBJSON.o /Users/jeff/Projects/Gluebox/JSON/NSObject+SBJSON.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306372388.330840
+e306372388.511798
+r1
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/NSObject+SBJSON.o
+x/Users/jeff/Projects/Gluebox/JSON/NSObject+SBJSON.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/jeff/Projects/Gluebox/JSON/NSObject+SBJSON.m306372388#306372388#0(0"0(0#0#51"/Users/jeff/Projects/Gluebox/JSON/NSObject+SBJSON.m8863189760#1382"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/JSON/NSObject+SBJSON.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/NSObject+SBJSON.o0#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/NSString+SBJSON.o /Users/jeff/Projects/Gluebox/JSON/NSString+SBJSON.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306372388.511905
+e306372388.736123
+r1
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/NSString+SBJSON.o
+x/Users/jeff/Projects/Gluebox/JSON/NSString+SBJSON.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/jeff/Projects/Gluebox/JSON/NSString+SBJSON.m306372388#306372388#0(0"0(0#0#51"/Users/jeff/Projects/Gluebox/JSON/NSString+SBJSON.m8818352160#1382"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/JSON/NSString+SBJSON.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/NSString+SBJSON.o0#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/Note.o /Users/jeff/Projects/Gluebox/Note.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306373838.123136
+e306373838.580871
+r1
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/Note.o
+x/Users/jeff/Projects/Gluebox/Note.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/jeff/Projects/Gluebox/Note.m306373838#306373838#0(0"0(0#0#35"/Users/jeff/Projects/Gluebox/Note.m8866272864#1355"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/Note.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/Note.o0#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonBase.o /Users/jeff/Projects/Gluebox/JSON/SBJsonBase.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306372388.550872
+e306372388.858399
+r1
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonBase.o
+x/Users/jeff/Projects/Gluebox/JSON/SBJsonBase.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/jeff/Projects/Gluebox/JSON/SBJsonBase.m306372388#306372388#0(0"0(0#0#46"/Users/jeff/Projects/Gluebox/JSON/SBJsonBase.m8822655712#1372"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/JSON/SBJsonBase.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonBase.o0#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonParser.o /Users/jeff/Projects/Gluebox/JSON/SBJsonParser.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306372388.736237
+e306372389.062544
+r1
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonParser.o
+x/Users/jeff/Projects/Gluebox/JSON/SBJsonParser.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/jeff/Projects/Gluebox/JSON/SBJsonParser.m306372388#306372389#0(0"0(0#0#48"/Users/jeff/Projects/Gluebox/JSON/SBJsonParser.m8861655392#1376"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/JSON/SBJsonParser.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonParser.o0#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonWriter.o /Users/jeff/Projects/Gluebox/JSON/SBJsonWriter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306372388.858504
+e306372389.123033
+r1
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonWriter.o
+x/Users/jeff/Projects/Gluebox/JSON/SBJsonWriter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/jeff/Projects/Gluebox/JSON/SBJsonWriter.m306372388#306372389#0(0"0(0#0#48"/Users/jeff/Projects/Gluebox/JSON/SBJsonWriter.m8795974464#1376"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/JSON/SBJsonWriter.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/SBJsonWriter.o0#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/YRKSpinningProgressIndicator.o /Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306354501.344892
+e306354501.568018
+r1
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/YRKSpinningProgressIndicator.o
+x/Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.m306354501#306354501#0(0"0(0#0#59"/Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.m3401403401131030528#1403"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/YRKSpinningProgressIndicator.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/YRKSpinningProgressIndicator.o0#
+
+CCompileC build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/main.o /Users/jeff/Projects/Gluebox/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306354500.903821
+e306354501.147377
+r1
+xCompileC
+xbuild/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/main.o
+x/Users/jeff/Projects/Gluebox/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/jeff/Projects/Gluebox/main.m306354500#306354501#0(0"0(0#0#35"/Users/jeff/Projects/Gluebox/main.m8618502144#1355"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -include /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch -c /Users/jeff/Projects/Gluebox/main.m -o /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib
+s306461089.383612
+e306461089.787850
+r1
+xCompileXIB
+x/Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib:564: note: This view is clipping its content.
+o/Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib:535: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib306461089#306461089#0(244"/* com.apple.ibtool.document.notices *//Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib:564: note: This view is clipping its content./Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib:535: note: This view is clipping its content.2(13@34"This view is clipping its content.306461089#18446744073709551615#0#0(6@55"/Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib306461053#564#0#564#0#0"0(13@34"This view is clipping its content.306461089#18446744073709551615#0#0(6@55"/Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib306461053#535#0#535#0#0"0(0#0#55"/Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib8882097152#334"    cd /Users/jeff/Projects/Gluebox    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/English.lproj/MainMenu.nib /Users/jeff/Projects/Gluebox/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s306354496.453498
+e306354496.971713
+r1
+xCopyStringsFile
+x/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings306354496#306354496#0(0"0(0#0#60"/Users/jeff/Projects/Gluebox/English.lproj/InfoPlist.strings8619431424#345"    cd /Users/jeff/Projects/Gluebox    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/Gluebox.app/Contents/Resources/Xion-dark.png Xion-dark.png
+r0
+
+CCpResource build/Debug/Gluebox.app/Contents/Resources/edit.png edit.png
+s306359639.448143
+e306359639.455126
+r1
+xCpResource
+xbuild/Debug/Gluebox.app/Contents/Resources/edit.png
+xedit.png
+lSLF07#2@13"Copy edit.png306359639#306359639#0(0"0(0#0#37"/Users/jeff/Projects/Gluebox/edit.png8623857856#294"    cd /Users/jeff/Projects/Gluebox    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jeff/Projects/Gluebox/edit.png /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources0#
+
+CCpResource build/Debug/Gluebox.app/Contents/Resources/email-alt.png email-alt.png
+r0
+
+CCpResource build/Debug/Gluebox.app/Contents/Resources/email.png email.png
+s306357534.679401
+e306357534.695663
+r1
+xCpResource
+xbuild/Debug/Gluebox.app/Contents/Resources/email.png
+xemail.png
+lSLF07#2@14"Copy email.png306357534#306357534#0(0"0(0#0#38"/Users/jeff/Projects/Gluebox/email.png8623422560#295"    cd /Users/jeff/Projects/Gluebox    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jeff/Projects/Gluebox/email.png /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources0#
+
+CCpResource build/Debug/Gluebox.app/Contents/Resources/jotlr-alt.png jotlr-alt.png
+s306354772.570652
+e306354772.619336
+r1
+xCpResource
+xbuild/Debug/Gluebox.app/Contents/Resources/jotlr-alt.png
+xjotlr-alt.png
+lSLF07#2@18"Copy jotlr-alt.png306354772#306354772#0(0"0(0#0#42"/Users/jeff/Projects/Gluebox/jotlr-alt.png8620695424#299"    cd /Users/jeff/Projects/Gluebox    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jeff/Projects/Gluebox/jotlr-alt.png /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources0#
+
+CCpResource build/Debug/Gluebox.app/Contents/Resources/jotlr.png jotlr.png
+s306354772.572422
+e306354772.618898
+r1
+xCpResource
+xbuild/Debug/Gluebox.app/Contents/Resources/jotlr.png
+xjotlr.png
+lSLF07#2@14"Copy jotlr.png306354772#306354772#0(0"0(0#0#38"/Users/jeff/Projects/Gluebox/jotlr.png8620483328#295"    cd /Users/jeff/Projects/Gluebox    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jeff/Projects/Gluebox/jotlr.png /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources0#
+
+CCpResource build/Debug/Gluebox.app/Contents/Resources/new.png new.png
+s306373406.482536
+e306373406.562781
+r1
+xCpResource
+xbuild/Debug/Gluebox.app/Contents/Resources/new.png
+xnew.png
+lSLF07#2@12"Copy new.png306373406#306373406#0(0"0(0#0#36"/Users/jeff/Projects/Gluebox/new.png8810932096#293"    cd /Users/jeff/Projects/Gluebox    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jeff/Projects/Gluebox/new.png /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources0#
+
+CCpResource build/Debug/Gluebox.app/Contents/Resources/raw-alt.png raw-alt.png
+r0
+
+CCpResource build/Debug/Gluebox.app/Contents/Resources/raw.png raw.png
+s306357433.807465
+e306357433.849610
+r1
+xCpResource
+xbuild/Debug/Gluebox.app/Contents/Resources/raw.png
+xraw.png
+lSLF07#2@12"Copy raw.png306357433#306357433#0(0"0(0#0#36"/Users/jeff/Projects/Gluebox/raw.png8618312512#293"    cd /Users/jeff/Projects/Gluebox    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jeff/Projects/Gluebox/raw.png /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources0#
+
+CCpResource build/Debug/Gluebox.app/Contents/Resources/settings ../Jotlr/settings
+r0
+
+CCpResource build/Debug/Gluebox.app/Contents/Resources/settings-alt.png ../Jotlr/settings-alt.png
+r0
+
+CCpResource build/Debug/Gluebox.app/Contents/Resources/settings-alt.png settings-alt.png
+r0
+
+CCpResource build/Debug/Gluebox.app/Contents/Resources/settings.png settings.png
+s306359639.423012
+e306359639.450216
+r1
+xCpResource
+xbuild/Debug/Gluebox.app/Contents/Resources/settings.png
+xsettings.png
+lSLF07#2@17"Copy settings.png306359639#306359639#0(0"0(0#0#41"/Users/jeff/Projects/Gluebox/settings.png8623985376#298"    cd /Users/jeff/Projects/Gluebox    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jeff/Projects/Gluebox/settings.png /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources0#
+
+CCpResource build/Debug/Gluebox.app/Contents/Resources/share.png share.png
+s306359639.429901
+e306359639.464628
+r1
+xCpResource
+xbuild/Debug/Gluebox.app/Contents/Resources/share.png
+xshare.png
+lSLF07#2@14"Copy share.png306359639#306359639#0(0"0(0#0#38"/Users/jeff/Projects/Gluebox/share.png8623922944#295"    cd /Users/jeff/Projects/Gluebox    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jeff/Projects/Gluebox/share.png /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Resources0#
+
+CLd /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/MacOS/Gluebox normal x86_64
+s306461090.230804
+e306461090.277808
+r1
+xLd
+x/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/MacOS/Gluebox
+xnormal
+xx86_64
+lSLF07#2@80"Link /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/MacOS/Gluebox306461090#306461090#0(0"0(0#0#0"8886122880#492"    cd /Users/jeff/Projects/Gluebox    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jeff/Projects/Gluebox/build/Debug -F/Users/jeff/Projects/Gluebox/build/Debug -filelist /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Objects-normal/x86_64/Gluebox.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/MacOS/Gluebox0#
+
+CProcessInfoPlistFile /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Info.plist Gluebox-Info.plist
+s306354496.429337
+e306354496.453412
+r1
+xProcessInfoPlistFile
+x/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Info.plist
+xGluebox-Info.plist
+lSLF07#2@26"Process Gluebox-Info.plist306354496#306354496#0(0"0(0#0#47"/Users/jeff/Projects/Gluebox/Gluebox-Info.plist31244010180771952#280"    cd /Users/jeff/Projects/Gluebox    builtin-infoPlistUtility Gluebox-Info.plist -genpkginfo /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-cnprodlyruewsnfihdsswapbilej/Gluebox_Prefix.pch.gch Gluebox_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch.gch Gluebox_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306354497.077325
+e306354500.903623
+r1
+xProcessPCH
+x/var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch.gch
+xGluebox_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Gluebox_Prefix.pch306354497#306354500#0(0"0(0#0#47"/Users/jeff/Projects/Gluebox/Gluebox_Prefix.pch8622395744#1271"    cd /Users/jeff/Projects/Gluebox    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-generated-files.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-own-target-headers.hmap -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-all-target-headers.hmap -iquote /Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/Gluebox-project-headers.hmap -F/Users/jeff/Projects/Gluebox/build/Debug -I/Users/jeff/Projects/Gluebox/build/Debug/include -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources/x86_64 -I/Users/jeff/Projects/Gluebox/build/Gluebox.build/Debug/Gluebox.build/DerivedSources -c /Users/jeff/Projects/Gluebox/Gluebox_Prefix.pch -o /var/folders/kw/kwV1YVwzFH8UGHE-jY0Xs++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Gluebox_Prefix-foizyzbufxjcteavaxndqjelfrzc/Gluebox_Prefix.pch.gch0#
+
+CTouch /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app
+s306461090.277905
+e306461090.280454
+r1
+xTouch
+x/Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app
+lSLF07#2@58"Touch /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app306461090#306461090#0(0"0(0#0#0"8885998208#111"    cd /Users/jeff/Projects/Gluebox    /usr/bin/touch -c /Users/jeff/Projects/Gluebox/build/Debug/Gluebox.app0#
+
